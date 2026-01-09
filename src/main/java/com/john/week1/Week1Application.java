@@ -16,5 +16,6 @@ public class Week1Application {
 
 @GetMapping("/") 
 public String index() { 
-	return "Greetings from your daddy!"; } 
+	return "Greetings from your daddy!"; 
+	return " ninte appante kunna sir kys!";
 }

@@ -16,5 +16,5 @@ public class Week1Application {
 
 @GetMapping("/") 
 public String index() { 
-	return "Greetings from MIT FIS!"; } 
+	return "Greetings from your daddy!"; } 
 }
